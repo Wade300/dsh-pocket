@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "DSH 随身连入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "在同一局域网内连接电脑上的 DeepSeek Harness"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DSH 随身连"
+    }
+  ]
+}

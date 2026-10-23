@@ -1,0 +1,5 @@
+qrcode-generator 2.0.4
+https://github.com/kazuhikoarase/qrcode-generator
+Copyright (c) 2009 Kazuhiko Arase
+Licensed under the MIT License.
+Vendored file: vendor/qrcode.js (dist/qrcode.js)

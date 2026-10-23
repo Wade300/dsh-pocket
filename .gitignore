@@ -1,0 +1,46 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# HarmonyOS build output
+harmony/.hvigor/
+harmony/build/
+harmony/entry/build/
+harmony/oh_modules/
+harmony/entry/oh_modules/
+harmony/node_modules/
+harmony/local.properties
+harmony/.preview/
+harmony/entry/.preview/
+harmony/.cxx/
+
+# Signing material
+*.p12
+*.cer
+*.p7b
+*.csr
+*.key
+signing/
+harmony/signature/
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Runtime / local experiments
+.research/
+dist/
+*.log
+*.hap
+*.app
+host/*.exe
+host/cloudflared.exe
+.env
+token
+
+# Local session dumps
+session.v4.jsonl.zstd
