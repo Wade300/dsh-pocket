@@ -6,7 +6,7 @@ The phone talks to a small Node bridge over WebSocket. The bridge speaks ACP JSO
 
 > Status: experimental. Tested on HarmonyOS NEXT (API 26) and a foldable phone. Expect rough edges.
 
-[使用说明](docs/USAGE.md) · [安装](docs/INSTALL.md) · [架构](docs/ARCHITECTURE.md) · [排错](docs/TROUBLESHOOTING.md) · [安全](SECURITY.md)
+[使用手册](docs/USAGE.md) · [安装](docs/INSTALL.md) · [架构](docs/ARCHITECTURE.md) · [排错](docs/TROUBLESHOOTING.md) · [安全](SECURITY.md)
 
 ## Features
 
